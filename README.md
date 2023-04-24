@@ -2,8 +2,10 @@
 
 <h4> Info </h4>
 <h6> Name: Nelcido Rafael Diaz Delgado </h6>
-<h6> Ocupation: Student</h6>
-<h6> Sex: Male</h6
+<h6> Country: Dominican Republic (Santiago) </h6>
+<h6> Ocupation: Student, Programmer</h6>
+<h6> Sex: Male</h6>
+<h6> Languages: English, spanish </h6>
 
 <h4>Bio:</h4>
 
@@ -16,11 +18,12 @@ I am currently studying Computer Science at Pucmm
 <h4>Technologies with which I have had contact</h4>
 <ul>
  <li>CSS,HTML and JS</li>
- <li>React</li>
+ <li>React & React Native</li>
  <li>Angular</li>
  <li>Sass</li>
  <li>C and C++</li>
  <li>Java</li>
+ <li>NestJs</li>
  <li>Tailwind css</li>
  <li>Golang</li>
  <li>Dart and Flutter </li>
@@ -35,7 +38,7 @@ I am currently studying Computer Science at Pucmm
  
  <h4>Current goals:</h4>
   <ul>
-   <li> Expertise on Flutter and dart </li>
-   <li> Compete on ICPC Caribe 2032 </li>
+   <li> Get Google Mobile Developer Certification </li>
+   <li> Classified on ICPC Dominican Republic 2023 </li>
    <li> Begin my path to learn basics on cibersecurity </li>
   </ul>
